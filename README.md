@@ -3,6 +3,13 @@
 A web-based AI system that detects and reports traffic violations from uploaded images using AWS services like Rekognition, Bedrock, Cognito, EC2 and DynamoDB. Built with Python and Streamlit, this application supports user authentication, license plate detection, AI-based violation classification, and owner email notifications. Fully deployable on Amazon EC2.
 
 ---
+## 🏗️ Architecture Overview &  📹 Final Output  
+
+#### Architecture Diagram
+
+[![Architecture](https://github.com/22MH1A42G1/traffic-violation-reporter-with-vehicle-number-detection/blob/main/img/WorkFlow.png)](https://www.youtube.com/watch?v=RBIyEDNF6ic)
+
+---
 
 ## 📌 Features
 
