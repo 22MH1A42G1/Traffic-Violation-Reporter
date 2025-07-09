@@ -222,25 +222,26 @@ Traffic Authority AI System
 ---
 ## 🔍 Screenshots
 
+### ☁️ EC2 Deployment
+![EC2 Deployment](https://github.com/22MH1A42G1/traffic-violation-reporter-with-vehicle-number-detection/blob/main/img/ec2_deployment_success.png)
+
 ### 🚀 Login & Dashboard
-![Login Page](./screenshots/login_page.png)
-![Streamlit Dashboard](./screenshots/streamlit_dashboard.png)
+![Login Page](https://github.com/22MH1A42G1/traffic-violation-reporter-with-vehicle-number-detection/blob/main/img/login_page.png)
+![Streamlit Dashboard](https://github.com/22MH1A42G1/traffic-violation-reporter-with-vehicle-number-detection/blob/main/img/upload_page.png)
 
 ### 📷 Violation Detection
-![Violation Detection](./screenshots/violation_detection_result.png)
+![Violation Detection](https://github.com/22MH1A42G1/traffic-violation-reporter-with-vehicle-number-detection/blob/main/img/violation_detection_result.png)
 
 ### 📊 DynamoDB Storage
-![DynamoDB Entry](./screenshots/dynamodb_violation_entry.png)
-
-### ☁️ EC2 Deployment
-![EC2 Deployment](./screenshots/ec2_deployment_success.png)
+![DynamoDB Entry](https://github.com/22MH1A42G1/traffic-violation-reporter-with-vehicle-number-detection/blob/main/img/dynamoDB_strorage.png)
 
 ### 📩 Notification (Gmail)
-![Notification](./screenshots/notification.png)
-
-
+![Notification](https://github.com/22MH1A42G1/traffic-violation-reporter-with-vehicle-number-detection/blob/main/img/notification.png)
 
 
 ---
 
+## 🧑‍💻 Author
 
+**Indana Aditya**
+[LinkedIn](https://www.linkedin.com/in/aditya-indana-899734216) • [GitHub](https://github.com/22MH1A42G1)
