@@ -1,0 +1,9 @@
+python-dotenv
+streamlit
+boto3
+psycopg2-binary
+pandas
+streamlit-authenticator
+pycognito
+smtplib  # built-in, no need to install separately
+email
